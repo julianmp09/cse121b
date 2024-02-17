@@ -1,0 +1,92 @@
+[
+    {
+        "id": "s24 ultra",
+        "title": "Samsung Galaxy s24 ultra",
+        "imagen": "./img/smartphones/samsung galaxy s24 ultra.jpeg",
+        "category": {
+            "nombre": "Smartphones",
+            "id": "smartphone"
+        },
+        "price": 1419
+    },
+    {
+        "id": "motorola razr",
+        "title": "Motorola razr 40",
+        "imagen": "./img/smartphones/moto-razr40.png",
+        "category": {
+            "nombre": "Smartphones",
+            "id": "smartphone"
+        },
+        "price": 490
+    },
+    {
+        "id": "S23 FE",
+        "title": "S23 FE",
+        "imagen": "./img/smartphones/S23 FE.jpg",
+        "category": {
+            "nombre": "Smartphones",
+            "id": "smartphone"
+        },
+        "price": 609
+    },
+    {
+        "id": "nintendo switch",
+        "title": "Nintendo Switch",
+        "imagen": "./img/console/nintendo switch.jpg",
+        "category": {
+            "nombre": "Console and video games",
+            "id": "console"
+        },
+        "price": 300
+    },
+    {
+        "id": "Pokemon",
+        "title": "Pokemon Diamond",
+        "imagen": "./img/console/pokemon.diamond.jpg",
+        "category": {
+            "nombre": "pokemon",
+            "id": "console"
+        },
+        "price": 30.95
+    },
+    {
+        "id": "mario",
+        "title": "Mario Kart Deluxe 8",
+        "imagen": "./img/console/mario kart deluxe 8.jpg",
+        "category": {
+            "nombre": "mario",
+            "id": "console"
+        },
+        "price": 59.99
+    },
+    {
+        "id": "xbox",
+        "title": "Xbox series X",
+        "imagen": "./img/console/xbox-x.jpg",
+        "category": {
+            "nombre": "xbox",
+            "id": "console"
+        },
+        "price": 389.99
+    },
+    {
+        "id": "call of duty",
+        "title": "Call of Duty MW",
+        "imagen": "./img/console/callofduty.jpg",
+        "category": {
+            "nombre": "callofduty",
+            "id": "console"
+        },
+        "price": 73.37
+    },
+    {
+        "id": "Harry Potter",
+        "title": "Harry Potter",
+        "imagen": "./img/console/harry-potter.jpg",
+        "category": {
+            "nombre": "harry",
+            "id": "console"
+        },
+        "price": 72.00
+    }
+]
